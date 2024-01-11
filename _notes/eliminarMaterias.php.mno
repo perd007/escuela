@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_notas" value="name:cod_NM;datatype:int,name:lapso_1_70;datatype:int,name:lapso_1_30;datatype:int,name:lapso_2_70;datatype:int,name:lapso_2_30;datatype:int,name:lapso_3_70;datatype:int,name:lapso_3_30;datatype:int,name:definitiva;datatype:int,name:id_materia;datatype:int,name:observacion;datatype:string" />
+</info>

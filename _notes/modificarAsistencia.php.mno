@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_asistencia" value="name:id_Asis;datatype:int,name:cod_hist;datatype:int,name:lapso;datatype:int,name:mes;datatype:string,name:materia;datatype:int,name:dias_asis;datatype:int,name:dias_totales;datatype:int,name:periodo;datatype:string,name:grado;datatype:int" />
+	<infoitem key="UD_alumno" value="name:cedula;datatype:int,name:nombre;datatype:string,name:apellido;datatype:string,name:enfermedad;datatype:string,name:sexo;datatype:string,name:edad;datatype:int,name:fecha_nac;datatype:date,name:id;datatype:int,name:representante;datatype:int,name:representante2;datatype:int,name:direccion;datatype:string,name:afinida;datatype:string,name:afinida2;datatype:string" />
+	<infoitem key="UD_historial" value="name:cod_hist;datatype:int,name:media;datatype:int,name:diversificado;datatype:int,name:id_alumno;datatype:int,name:ano_escolar;datatype:string,name:grado;datatype:int,name:seccion;datatype:string,name:mencion;datatype:string,name:id_eduT;datatype:int,name:actual;datatype:int" />
+	<infoitem key="UD_materia" value="name:id_materia;datatype:int,name:nombre;datatype:string,name:grado;datatype:string,name:mencion;datatype:string" />
+</info>

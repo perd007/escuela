@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_alumno" value="name:cedula;datatype:int,name:nombre;datatype:string,name:apellido;datatype:string,name:enfermedad;datatype:string,name:sexo;datatype:string,name:edad;datatype:int,name:fecha_nac;datatype:date,name:id;datatype:int,name:representante;datatype:int,name:representante2;datatype:int,name:direccion;datatype:string,name:afinida;datatype:string,name:afinida2;datatype:string" />
+</info>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_usuarios" value="name:id_seg;datatype:int,name:usuario;datatype:string,name:clave;datatype:string,name:modificar;datatype:string,name:consultar;datatype:string,name:registrar;datatype:string,name:eliminar;datatype:string,name:nombre;datatype:string,name:apellido;datatype:string,name:cedula;datatype:int" />
+</info>

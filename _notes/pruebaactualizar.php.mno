@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_edut" value="name:cod_ET;datatype:int,name:primer_lapso;datatype:int,name:segundo_lapso;datatype:int,name:tercer_lapso;datatype:int,name:definitivo;datatype:int,name:id_eduT;datatype:int,name:cod_hist;datatype:int" />
+</info>

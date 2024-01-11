@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_representantes" value="name:cedula;datatype:int,name:nombre;datatype:string,name:apellido;datatype:string,name:profesion;datatype:string,name:id_representante;datatype:int,name:sexo;datatype:string,name:direccion;datatype:string" />
+</info>

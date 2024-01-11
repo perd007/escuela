@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_historial" value="name:cod_hist;datatype:int,name:media;datatype:int,name:diversificado;datatype:int,name:id_alumno;datatype:int,name:ano_escolar;datatype:string,name:grado;datatype:int,name:seccion;datatype:string,name:mencion;datatype:string,name:actual;datatype:int" />
+	<infoitem key="UD_alumnos" value="name:cedula;datatype:int,name:nombre;datatype:string,name:apellido;datatype:string,name:enfermedad;datatype:string,name:sexo;datatype:string,name:edad;datatype:int,name:fecha_nac;datatype:date,name:id;datatype:int,name:representante;datatype:int,name:representante2;datatype:int,name:direccion;datatype:string,name:afinida;datatype:string,name:afinida2;datatype:string" />
+</info>
